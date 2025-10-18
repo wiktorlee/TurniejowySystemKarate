@@ -1,1 +1,30 @@
+# IDE / edytory
+.idea/
+.vscode/
+
+# Wirtualne środowisko
+.venv/
+env/
+
+# Pliki Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pliki bazy lokalnej (SQLite – już nieużywana)
+instance/
+*.db
+
+# Systemowe
+.DS_Store
+Thumbs.db
+
+# Pliki konfiguracyjne z hasłami (jeśli byś dodał)
+.env
+
+# Kompilowane pliki / backupy
+*.bak
+*.log
+*.tmp
 .idea/
